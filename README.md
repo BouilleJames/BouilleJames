@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BouilleJames
-- 👀 I’m interested in React .JavaScript and NodeJs and .Java programming language..
+- 👀 I’m interested in React .JavaScript and NodeJs and others programming language..
 - 🌱 I’m currently learning .how to design an application..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Send me a message to: ...
